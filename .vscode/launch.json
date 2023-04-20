@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "HW_6b1f141e"
+        },
+        {
+            "type": "java",
             "name": "task4",
             "request": "launch",
             "mainClass": "task4",
